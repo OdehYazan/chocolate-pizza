@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+}
+body {
+padding-top:30px;
+padding-right: 220px;
+padding-left: 220px;
+}
+section{
+    width: 100%;
+}
+
+
+header {
+    padding-top :30px;
+    padding-bottom: 30px;
+}
+hr{
+    height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+header img{
+    float: left;
+}
+header div{
+    
+   float: right;
+   
+   
+}
+header div img{
+    margin-left: 2px;
+}
+ header h1 {
+
+    font-family: 'Dancing Script', cursive;
+    display: inline-block;
+    font-size:xx-large;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+header p {
+    display: block;
+    font-size: x-small;
+    color: rgb(177, 177, 177);
+    
+}
+
+h2{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Goblin One', cursive;
+}
+h5{
+    font-size: small;
+    color: rgb(177, 177, 177);
+}
+section div img {
+    float:right;
+    
+}
+section div {
+    padding:20px;
+}
+
+section article{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+section article p{
+    margin-bottom: 25px;
+    text-indent: 30px;
+}
+
+section article ul{
+    display: inline-block;
+     margin-left: 50px; 
+     font-
+}
+#Ul{
+    margin-left: 100px;
+}
+section article div{
+    
+    background-image: url("../img/list-bg.png");
+    width: 100%;
+    height: 200px;
+}
