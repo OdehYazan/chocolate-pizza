@@ -15,7 +15,7 @@ header {
     padding-top :30px;
     padding-bottom: 30px;
 }
-hr{
+.hr{
     height: 10px;
 	border: 0;
 	box-shadow: 0 10px 10px -10px #8c8b8b inset;
@@ -77,14 +77,64 @@ section article p{
 section article ul{
     display: inline-block;
      margin-left: 50px; 
-     font-
+     font-family: 'Shadows Into Light', cursive;
+     font-weight: bold;
+     font-size: large;
 }
 #Ul{
-    margin-left: 100px;
+    margin-left: 200px;
+}
+section article ul li {
+    margin-bottom: 10px;
+    color: grey;
 }
 section article div{
     
     background-image: url("../img/list-bg.png");
     width: 100%;
     height: 200px;
+}
+
+#vanessa{
+    padding-top: 30px;
+    padding-bottom: 50px;px;
+}
+#vanessa img{
+    float: left;
+}
+#vanessa button{
+    float: right;
+    font-size: large;
+    padding:10px;
+    background-color: rgb(243, 144, 144);
+    color: white;
+    
+    
+}
+h3{
+    font-weight: bold;
+    font-size: large;
+    padding-bottom: 10px;
+}
+#vanessa p{
+    font-size: large;
+    width: 500px;
+}
+footer{
+    margin-top: 50px;
+}
+
+footer img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}
+footer p {
+    margin-left: 320px;
+    
+    
+}
+#lastP{
+    margin-left: 350px;
 }
